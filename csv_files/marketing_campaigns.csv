@@ -1,0 +1,21 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget_usd,target_country
+1,Affiliate Campaign 01,Affiliate,2023-11-22,2023-12-09,37005,Germany
+2,Social Media Campaign 02,Social Media,2023-03-25,2023-04-30,26867,USA
+3,Display Ads Campaign 03,Display Ads,2023-12-19,2024-01-30,16392,Germany
+4,Paid Search Campaign 04,Paid Search,2023-01-29,2023-02-19,4103,Australia
+5,Paid Search Campaign 05,Paid Search,2023-07-25,2023-08-18,6337,Singapore
+6,Affiliate Campaign 06,Affiliate,2023-06-11,2023-07-01,44954,UK
+7,Organic Search Campaign 07,Organic Search,2023-11-26,2024-01-01,11363,USA
+8,Social Media Campaign 08,Social Media,2023-05-07,2023-06-18,37322,USA
+9,Display Ads Campaign 09,Display Ads,2023-10-27,2023-11-30,40242,UK
+10,Paid Search Campaign 10,Paid Search,2023-04-23,2023-05-08,35392,UK
+11,Email Campaign 11,Email,2023-01-25,2023-02-08,12016,Germany
+12,Social Media Campaign 12,Social Media,2023-12-15,2024-01-18,41086,Thailand
+13,Organic Search Campaign 13,Organic Search,2023-07-15,2023-08-29,32674,Japan
+14,Paid Search Campaign 14,Paid Search,2023-10-11,2023-10-18,46583,Germany
+15,Email Campaign 15,Email,2023-12-16,2024-01-26,19486,Australia
+16,Display Ads Campaign 16,Display Ads,2023-06-24,2023-07-08,21234,UK
+17,Social Media Campaign 17,Social Media,2023-08-21,2023-08-28,49323,Germany
+18,Paid Search Campaign 18,Paid Search,2023-09-14,2023-10-02,35271,Thailand
+19,Display Ads Campaign 19,Display Ads,2023-06-02,2023-07-11,41909,Singapore
+20,Social Media Campaign 20,Social Media,2023-07-11,2023-07-28,37348,Australia

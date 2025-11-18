@@ -1,0 +1,801 @@
+order_id,customer_id,order_date,order_status,payment_method,campaign_id
+1,237,2023-09-29,Completed,COD,
+2,154,2023-06-15,Completed,Credit Card,4
+3,238,2023-07-05,Completed,Credit Card,
+4,213,2023-06-07,Cancelled,Bank Transfer,8
+5,225,2023-10-18,Completed,Credit Card,
+6,22,2023-09-06,Pending,Credit Card,
+7,195,2023-09-30,Completed,Credit Card,
+8,33,2023-12-04,Cancelled,Bank Transfer,18
+9,43,2023-05-16,Completed,Credit Card,20
+10,109,2023-04-19,Completed,Bank Transfer,
+11,194,2023-12-20,Completed,E-Wallet,10
+12,103,2023-12-10,Completed,Credit Card,15
+13,231,2023-09-22,Pending,Credit Card,8
+14,58,2023-02-02,Completed,Credit Card,19
+15,142,2023-04-28,Completed,E-Wallet,1
+16,19,2023-12-29,Completed,E-Wallet,8
+17,18,2023-01-17,Completed,Credit Card,
+18,19,2023-09-21,Completed,Bank Transfer,16
+19,55,2023-10-04,Completed,E-Wallet,19
+20,148,2023-08-31,Completed,E-Wallet,16
+21,207,2023-07-28,Completed,E-Wallet,4
+22,169,2023-08-09,Cancelled,COD,14
+23,120,2023-01-28,Returned,COD,
+24,166,2023-02-20,Completed,Credit Card,11
+25,205,2023-02-25,Completed,E-Wallet,7
+26,138,2023-08-18,Completed,COD,6
+27,72,2023-08-25,Completed,Credit Card,3
+28,114,2023-10-09,Completed,Bank Transfer,18
+29,215,2023-01-08,Completed,Credit Card,
+30,238,2023-05-02,Completed,Credit Card,16
+31,124,2023-04-20,Completed,Credit Card,
+32,232,2023-01-31,Cancelled,Credit Card,1
+33,100,2023-05-16,Completed,Credit Card,
+34,201,2023-08-21,Completed,Credit Card,18
+35,170,2023-09-07,Completed,Bank Transfer,10
+36,56,2023-01-30,Completed,Bank Transfer,18
+37,16,2023-06-10,Returned,COD,19
+38,123,2023-09-15,Completed,Credit Card,
+39,136,2023-03-22,Completed,Credit Card,17
+40,21,2023-04-06,Pending,Credit Card,3
+41,173,2023-05-01,Completed,Bank Transfer,19
+42,64,2023-10-24,Completed,Bank Transfer,20
+43,21,2023-08-03,Completed,Credit Card,
+44,145,2023-09-25,Completed,Credit Card,9
+45,53,2023-12-09,Completed,Credit Card,
+46,62,2023-05-16,Completed,Credit Card,10
+47,118,2023-06-11,Completed,Bank Transfer,
+48,240,2023-02-07,Completed,COD,20
+49,145,2023-02-21,Completed,Credit Card,7
+50,130,2023-05-16,Completed,Bank Transfer,12
+51,226,2023-02-05,Completed,Credit Card,
+52,95,2023-05-26,Pending,Credit Card,18
+53,181,2023-06-04,Completed,Bank Transfer,17
+54,3,2023-12-08,Returned,Bank Transfer,
+55,77,2023-12-06,Cancelled,Credit Card,5
+56,68,2023-03-01,Cancelled,Credit Card,
+57,191,2023-10-11,Returned,Credit Card,10
+58,155,2023-04-18,Cancelled,Credit Card,
+59,53,2023-12-18,Completed,Credit Card,9
+60,130,2023-09-08,Completed,Credit Card,2
+61,24,2023-11-21,Completed,Credit Card,9
+62,12,2023-01-02,Completed,E-Wallet,5
+63,164,2023-05-15,Completed,E-Wallet,15
+64,142,2023-12-28,Completed,Credit Card,1
+65,29,2023-02-08,Cancelled,Bank Transfer,
+66,177,2023-03-18,Completed,Bank Transfer,12
+67,150,2023-10-10,Completed,Credit Card,5
+68,11,2023-06-07,Pending,E-Wallet,2
+69,231,2023-07-03,Completed,Credit Card,8
+70,171,2023-02-22,Completed,Credit Card,18
+71,227,2023-07-28,Completed,Credit Card,
+72,192,2023-03-21,Completed,E-Wallet,
+73,61,2023-03-25,Completed,Bank Transfer,
+74,208,2023-04-01,Completed,Credit Card,
+75,7,2023-04-02,Completed,E-Wallet,
+76,86,2023-07-30,Completed,E-Wallet,
+77,222,2023-05-08,Completed,Credit Card,4
+78,98,2023-01-20,Completed,Credit Card,
+79,57,2023-04-13,Returned,E-Wallet,
+80,118,2023-06-29,Completed,Credit Card,8
+81,58,2023-01-13,Completed,E-Wallet,
+82,103,2023-06-18,Completed,Bank Transfer,3
+83,248,2023-05-23,Completed,Bank Transfer,17
+84,103,2023-12-14,Completed,Bank Transfer,
+85,138,2023-06-19,Pending,Credit Card,
+86,30,2023-05-14,Completed,E-Wallet,9
+87,10,2023-02-25,Completed,E-Wallet,12
+88,187,2023-06-10,Completed,Credit Card,17
+89,30,2023-07-17,Returned,Credit Card,
+90,49,2023-05-11,Completed,Credit Card,14
+91,1,2023-09-24,Completed,Credit Card,
+92,138,2023-12-18,Completed,E-Wallet,
+93,190,2023-12-10,Completed,Bank Transfer,14
+94,18,2023-12-07,Completed,COD,
+95,160,2023-06-10,Completed,E-Wallet,
+96,32,2023-06-03,Completed,Credit Card,14
+97,84,2023-07-26,Completed,Credit Card,
+98,142,2023-03-07,Completed,Credit Card,13
+99,174,2023-03-31,Cancelled,Credit Card,10
+100,104,2023-10-08,Completed,Bank Transfer,
+101,78,2023-05-27,Completed,Credit Card,19
+102,156,2023-12-02,Completed,Credit Card,15
+103,114,2023-12-12,Completed,Bank Transfer,16
+104,204,2023-03-28,Completed,COD,
+105,73,2023-09-21,Cancelled,Bank Transfer,
+106,159,2023-06-21,Returned,Credit Card,8
+107,173,2023-06-08,Completed,Credit Card,7
+108,38,2023-01-13,Completed,Credit Card,16
+109,157,2023-02-07,Pending,Credit Card,19
+110,50,2023-12-23,Completed,Credit Card,13
+111,63,2023-03-17,Pending,Credit Card,
+112,2,2023-02-24,Completed,Credit Card,
+113,57,2023-04-01,Completed,E-Wallet,
+114,179,2023-09-23,Pending,Credit Card,18
+115,64,2023-03-04,Pending,Bank Transfer,15
+116,171,2023-09-29,Returned,Credit Card,
+117,153,2023-06-12,Completed,Credit Card,
+118,229,2023-08-15,Completed,Credit Card,17
+119,110,2023-10-08,Completed,Credit Card,6
+120,191,2023-09-01,Completed,Credit Card,8
+121,216,2023-11-23,Completed,E-Wallet,17
+122,125,2023-11-17,Completed,Bank Transfer,15
+123,20,2024-01-01,Completed,E-Wallet,9
+124,86,2023-06-13,Completed,Bank Transfer,
+125,21,2023-03-12,Returned,E-Wallet,13
+126,178,2023-03-20,Completed,Credit Card,
+127,17,2023-08-01,Completed,E-Wallet,18
+128,120,2023-08-01,Completed,Credit Card,14
+129,100,2023-10-27,Pending,Bank Transfer,
+130,6,2023-10-22,Completed,Credit Card,1
+131,242,2023-06-30,Completed,Credit Card,13
+132,219,2023-08-03,Completed,Credit Card,18
+133,205,2023-11-05,Completed,E-Wallet,
+134,125,2023-04-23,Completed,E-Wallet,16
+135,8,2023-07-19,Completed,E-Wallet,13
+136,186,2023-03-26,Cancelled,Bank Transfer,
+137,236,2023-03-07,Completed,E-Wallet,
+138,137,2023-01-14,Completed,Credit Card,
+139,152,2023-10-16,Completed,COD,
+140,22,2023-11-26,Cancelled,COD,15
+141,47,2023-01-26,Completed,COD,11
+142,55,2023-08-21,Completed,Credit Card,13
+143,72,2023-08-04,Completed,Credit Card,3
+144,121,2023-01-10,Completed,Credit Card,
+145,14,2023-06-29,Completed,Credit Card,3
+146,200,2023-11-30,Completed,Credit Card,1
+147,244,2023-05-07,Completed,Credit Card,1
+148,160,2023-03-20,Completed,Bank Transfer,16
+149,172,2023-02-28,Completed,Bank Transfer,7
+150,120,2023-12-25,Completed,Credit Card,12
+151,43,2023-11-07,Returned,Credit Card,4
+152,200,2023-03-25,Completed,Credit Card,
+153,28,2023-10-24,Completed,Credit Card,10
+154,148,2023-12-13,Completed,Bank Transfer,
+155,97,2023-07-23,Completed,Bank Transfer,
+156,51,2023-02-08,Cancelled,COD,8
+157,27,2023-12-23,Completed,E-Wallet,
+158,218,2023-12-17,Completed,Credit Card,4
+159,204,2023-10-17,Completed,Bank Transfer,
+160,89,2023-09-30,Returned,Credit Card,12
+161,18,2023-09-17,Pending,Credit Card,1
+162,218,2023-08-04,Pending,Credit Card,
+163,28,2023-08-10,Completed,Credit Card,
+164,163,2023-08-24,Completed,Credit Card,
+165,112,2023-04-01,Completed,COD,
+166,248,2023-11-30,Completed,Credit Card,18
+167,199,2023-09-05,Completed,Bank Transfer,19
+168,69,2023-06-15,Completed,Credit Card,
+169,213,2023-02-14,Completed,Credit Card,15
+170,63,2023-08-26,Completed,Credit Card,13
+171,87,2023-01-15,Completed,Bank Transfer,11
+172,47,2023-09-07,Completed,Bank Transfer,9
+173,88,2023-05-24,Completed,E-Wallet,
+174,180,2023-05-22,Completed,COD,17
+175,243,2023-04-08,Completed,Credit Card,14
+176,126,2023-10-12,Completed,E-Wallet,
+177,177,2023-09-01,Completed,COD,16
+178,115,2023-01-09,Returned,Credit Card,8
+179,104,2023-12-21,Completed,Bank Transfer,19
+180,95,2023-08-31,Completed,COD,12
+181,109,2023-10-09,Pending,Credit Card,15
+182,70,2023-06-06,Completed,COD,4
+183,185,2023-04-09,Completed,COD,18
+184,244,2023-12-20,Completed,Bank Transfer,7
+185,190,2023-09-05,Completed,Bank Transfer,19
+186,195,2023-09-26,Completed,Bank Transfer,4
+187,214,2023-04-10,Completed,Bank Transfer,12
+188,46,2023-06-04,Returned,Credit Card,18
+189,33,2023-05-21,Completed,Credit Card,2
+190,142,2023-05-30,Completed,Bank Transfer,
+191,33,2023-11-23,Completed,Credit Card,
+192,126,2023-02-22,Completed,Bank Transfer,
+193,147,2023-05-26,Completed,E-Wallet,15
+194,88,2023-04-05,Completed,Bank Transfer,
+195,65,2023-09-02,Completed,Credit Card,3
+196,103,2023-09-09,Completed,Bank Transfer,2
+197,39,2023-03-18,Pending,Credit Card,
+198,243,2023-06-05,Completed,Bank Transfer,8
+199,31,2023-10-13,Completed,Credit Card,
+200,156,2023-11-02,Completed,Credit Card,
+201,58,2023-09-25,Returned,Credit Card,15
+202,77,2023-10-29,Completed,Credit Card,
+203,79,2023-10-19,Completed,Credit Card,20
+204,246,2023-02-20,Completed,Credit Card,
+205,54,2023-11-17,Cancelled,Credit Card,3
+206,41,2023-05-03,Completed,E-Wallet,3
+207,41,2023-01-02,Completed,Credit Card,20
+208,121,2023-05-30,Completed,Credit Card,10
+209,181,2023-05-25,Completed,E-Wallet,
+210,117,2023-02-06,Completed,Bank Transfer,
+211,237,2023-05-16,Completed,Credit Card,
+212,161,2023-10-29,Completed,Bank Transfer,
+213,240,2023-04-12,Pending,Credit Card,18
+214,58,2023-11-28,Completed,Credit Card,9
+215,212,2023-03-14,Completed,Credit Card,6
+216,203,2023-06-07,Completed,COD,19
+217,236,2023-05-28,Completed,Bank Transfer,15
+218,177,2023-06-05,Cancelled,E-Wallet,
+219,242,2023-05-20,Completed,Credit Card,16
+220,113,2023-02-11,Completed,E-Wallet,14
+221,189,2023-06-15,Pending,Credit Card,1
+222,24,2023-04-28,Returned,Credit Card,
+223,215,2023-10-22,Completed,Credit Card,1
+224,196,2023-12-11,Cancelled,Credit Card,
+225,148,2023-01-21,Cancelled,COD,
+226,45,2023-08-29,Completed,Credit Card,15
+227,235,2023-05-23,Completed,Credit Card,19
+228,112,2023-11-22,Completed,Credit Card,
+229,249,2023-02-16,Pending,Bank Transfer,14
+230,86,2023-06-14,Completed,Credit Card,
+231,220,2023-03-24,Completed,Bank Transfer,16
+232,74,2023-12-06,Completed,E-Wallet,
+233,209,2023-10-09,Completed,E-Wallet,3
+234,81,2023-05-10,Returned,Credit Card,13
+235,222,2023-09-21,Pending,Credit Card,
+236,1,2023-12-03,Cancelled,Credit Card,
+237,119,2023-07-31,Returned,E-Wallet,17
+238,93,2023-11-15,Cancelled,COD,
+239,161,2023-08-15,Completed,Credit Card,
+240,53,2023-05-17,Completed,Credit Card,10
+241,113,2023-12-24,Completed,Credit Card,1
+242,250,2023-11-19,Pending,Bank Transfer,8
+243,182,2023-03-23,Cancelled,Credit Card,1
+244,142,2023-07-28,Returned,E-Wallet,4
+245,119,2023-03-02,Completed,Bank Transfer,5
+246,128,2023-05-30,Cancelled,Credit Card,9
+247,107,2023-09-05,Completed,Credit Card,
+248,63,2023-08-22,Completed,Credit Card,13
+249,49,2023-11-03,Completed,Credit Card,5
+250,222,2023-02-05,Completed,E-Wallet,14
+251,88,2023-09-17,Completed,E-Wallet,1
+252,73,2023-06-02,Completed,Credit Card,
+253,149,2023-12-04,Completed,Credit Card,5
+254,115,2023-10-03,Completed,Bank Transfer,11
+255,142,2023-10-06,Completed,Bank Transfer,11
+256,223,2023-04-07,Completed,Credit Card,
+257,62,2023-10-20,Completed,COD,14
+258,12,2023-06-12,Completed,Credit Card,
+259,181,2023-07-15,Pending,Credit Card,5
+260,127,2023-01-19,Completed,E-Wallet,19
+261,85,2023-02-21,Completed,Credit Card,
+262,113,2023-02-21,Completed,Credit Card,15
+263,4,2023-03-15,Completed,Bank Transfer,5
+264,20,2023-08-29,Completed,Credit Card,
+265,68,2023-06-23,Pending,COD,13
+266,167,2023-02-11,Completed,Credit Card,
+267,219,2023-12-12,Completed,Credit Card,
+268,98,2023-06-12,Completed,Credit Card,16
+269,224,2023-10-05,Returned,Credit Card,3
+270,61,2023-11-20,Completed,Credit Card,
+271,74,2023-04-27,Completed,COD,
+272,112,2023-02-20,Completed,COD,
+273,181,2023-02-21,Completed,Credit Card,10
+274,232,2023-01-15,Completed,Credit Card,2
+275,76,2023-07-03,Completed,COD,5
+276,63,2023-09-29,Completed,Credit Card,6
+277,44,2023-03-31,Completed,Credit Card,13
+278,159,2023-12-16,Completed,E-Wallet,19
+279,37,2023-04-29,Cancelled,E-Wallet,9
+280,118,2023-05-11,Completed,Credit Card,
+281,231,2023-08-27,Completed,Credit Card,
+282,174,2023-10-07,Returned,Credit Card,15
+283,242,2023-06-26,Completed,Credit Card,
+284,77,2023-11-24,Completed,Bank Transfer,
+285,177,2023-05-09,Completed,Credit Card,10
+286,51,2023-07-16,Completed,Credit Card,
+287,28,2023-05-02,Cancelled,E-Wallet,12
+288,148,2023-06-01,Pending,COD,
+289,76,2023-01-12,Completed,Bank Transfer,
+290,169,2023-07-22,Completed,Credit Card,19
+291,222,2023-12-18,Returned,Credit Card,
+292,250,2023-01-26,Pending,Credit Card,
+293,191,2023-09-12,Completed,Bank Transfer,
+294,232,2023-05-27,Returned,Bank Transfer,
+295,59,2023-11-07,Completed,Credit Card,
+296,57,2023-11-22,Completed,Credit Card,9
+297,174,2023-12-04,Completed,Credit Card,
+298,36,2023-11-18,Completed,Credit Card,2
+299,80,2023-08-14,Completed,Bank Transfer,12
+300,188,2023-03-09,Completed,Credit Card,10
+301,84,2023-08-01,Completed,E-Wallet,5
+302,202,2023-10-04,Completed,Credit Card,
+303,94,2023-09-29,Completed,Credit Card,9
+304,213,2023-03-26,Cancelled,Bank Transfer,16
+305,248,2023-06-01,Completed,Credit Card,
+306,87,2023-02-28,Completed,Bank Transfer,3
+307,37,2023-04-26,Cancelled,Credit Card,
+308,186,2023-12-12,Completed,Credit Card,
+309,248,2023-10-13,Pending,Credit Card,13
+310,4,2023-05-16,Cancelled,Bank Transfer,15
+311,95,2023-12-11,Completed,Credit Card,
+312,68,2023-10-27,Completed,Bank Transfer,12
+313,28,2023-12-12,Cancelled,Bank Transfer,1
+314,159,2023-10-15,Completed,Credit Card,20
+315,57,2023-11-28,Pending,COD,15
+316,233,2023-12-25,Completed,E-Wallet,14
+317,30,2023-03-13,Completed,Bank Transfer,2
+318,78,2023-09-10,Completed,COD,8
+319,228,2023-10-03,Completed,Credit Card,15
+320,95,2023-12-10,Completed,E-Wallet,
+321,179,2023-10-04,Completed,Credit Card,5
+322,227,2023-08-01,Completed,Credit Card,
+323,214,2023-09-08,Completed,E-Wallet,9
+324,9,2023-12-20,Completed,Credit Card,15
+325,114,2023-05-01,Completed,E-Wallet,
+326,26,2023-12-18,Completed,Credit Card,12
+327,16,2023-07-23,Cancelled,E-Wallet,4
+328,243,2023-08-21,Returned,E-Wallet,7
+329,165,2023-11-24,Completed,COD,1
+330,13,2023-06-20,Completed,COD,5
+331,202,2023-10-17,Completed,COD,18
+332,54,2023-10-28,Completed,Credit Card,8
+333,85,2023-03-17,Completed,E-Wallet,
+334,153,2023-01-02,Pending,Credit Card,5
+335,34,2023-10-04,Completed,Credit Card,6
+336,29,2023-12-05,Completed,COD,
+337,34,2023-01-08,Completed,Credit Card,8
+338,151,2023-06-15,Returned,Bank Transfer,9
+339,14,2023-03-06,Completed,Bank Transfer,
+340,135,2023-02-28,Completed,Credit Card,
+341,122,2023-08-18,Completed,Bank Transfer,
+342,132,2023-10-31,Returned,Bank Transfer,17
+343,57,2023-11-11,Cancelled,Credit Card,17
+344,78,2023-08-23,Completed,Credit Card,1
+345,16,2023-09-03,Completed,Bank Transfer,
+346,110,2023-12-18,Pending,Credit Card,15
+347,19,2023-02-11,Completed,COD,5
+348,17,2023-03-06,Completed,Bank Transfer,19
+349,141,2023-12-31,Completed,Bank Transfer,20
+350,136,2023-05-31,Completed,Credit Card,20
+351,111,2023-02-20,Cancelled,Bank Transfer,
+352,30,2023-12-02,Completed,COD,
+353,197,2023-10-10,Completed,Bank Transfer,
+354,56,2023-08-09,Completed,E-Wallet,8
+355,106,2023-06-23,Completed,Credit Card,
+356,103,2023-08-01,Completed,Credit Card,
+357,81,2023-08-07,Returned,E-Wallet,9
+358,96,2023-03-20,Completed,Credit Card,
+359,122,2023-02-04,Completed,E-Wallet,3
+360,24,2023-08-10,Completed,Credit Card,12
+361,208,2023-03-08,Completed,Bank Transfer,19
+362,245,2023-10-15,Completed,Bank Transfer,4
+363,106,2023-07-01,Completed,COD,
+364,241,2023-08-05,Completed,Bank Transfer,
+365,185,2023-01-27,Completed,Bank Transfer,
+366,154,2023-06-09,Completed,Bank Transfer,19
+367,130,2023-04-19,Completed,Bank Transfer,16
+368,58,2023-02-25,Completed,Bank Transfer,18
+369,95,2023-02-28,Cancelled,Credit Card,
+370,147,2023-04-26,Cancelled,Credit Card,
+371,217,2023-10-15,Completed,Credit Card,
+372,210,2023-11-15,Completed,COD,18
+373,7,2023-11-08,Completed,COD,
+374,213,2023-12-22,Completed,Credit Card,6
+375,70,2023-12-26,Completed,Credit Card,
+376,236,2023-06-23,Completed,Credit Card,6
+377,223,2023-03-15,Completed,Bank Transfer,13
+378,18,2023-03-14,Completed,E-Wallet,
+379,249,2023-01-16,Pending,Bank Transfer,17
+380,56,2023-07-12,Completed,Bank Transfer,11
+381,41,2023-07-09,Cancelled,Credit Card,11
+382,199,2023-10-18,Completed,COD,2
+383,40,2023-03-22,Completed,Bank Transfer,
+384,13,2023-12-12,Completed,Credit Card,15
+385,170,2023-08-06,Completed,Credit Card,15
+386,107,2023-05-20,Completed,Credit Card,17
+387,30,2023-06-26,Returned,Credit Card,10
+388,174,2023-12-14,Completed,Credit Card,17
+389,171,2023-06-07,Pending,Credit Card,13
+390,154,2023-01-29,Completed,E-Wallet,10
+391,243,2023-04-19,Returned,Credit Card,
+392,196,2023-05-11,Cancelled,Credit Card,4
+393,2,2023-09-12,Completed,Credit Card,
+394,45,2023-03-08,Completed,Bank Transfer,8
+395,129,2023-10-14,Completed,Credit Card,
+396,207,2023-07-01,Completed,COD,2
+397,112,2023-01-10,Completed,Bank Transfer,3
+398,221,2023-06-10,Completed,COD,19
+399,104,2023-12-30,Completed,E-Wallet,10
+400,30,2023-07-27,Completed,Credit Card,11
+401,44,2023-11-13,Completed,Credit Card,12
+402,23,2023-08-12,Completed,E-Wallet,
+403,63,2023-08-12,Completed,Credit Card,17
+404,21,2023-07-22,Cancelled,Credit Card,
+405,191,2023-06-23,Cancelled,Credit Card,6
+406,20,2023-09-19,Completed,Credit Card,17
+407,131,2023-04-10,Completed,E-Wallet,
+408,90,2023-06-29,Completed,Credit Card,
+409,210,2023-11-27,Completed,Credit Card,
+410,61,2023-02-22,Returned,Credit Card,7
+411,45,2023-11-05,Completed,E-Wallet,3
+412,46,2023-11-18,Completed,E-Wallet,19
+413,195,2023-10-24,Completed,Credit Card,19
+414,165,2023-11-22,Completed,Bank Transfer,
+415,83,2023-11-18,Pending,Credit Card,15
+416,18,2023-08-29,Completed,Credit Card,10
+417,204,2023-05-21,Completed,Credit Card,12
+418,130,2023-02-07,Pending,Bank Transfer,15
+419,10,2023-01-30,Completed,Credit Card,10
+420,20,2023-11-27,Completed,Credit Card,
+421,219,2023-02-16,Completed,E-Wallet,17
+422,99,2023-08-25,Completed,Credit Card,2
+423,116,2023-10-20,Completed,E-Wallet,
+424,83,2023-11-06,Completed,Credit Card,5
+425,246,2023-02-01,Completed,Credit Card,11
+426,183,2023-02-13,Completed,Credit Card,6
+427,11,2023-05-07,Completed,Credit Card,
+428,113,2023-09-26,Pending,COD,6
+429,94,2023-07-10,Completed,Credit Card,
+430,100,2023-07-29,Completed,Bank Transfer,
+431,174,2023-11-03,Completed,Credit Card,11
+432,17,2023-06-18,Completed,COD,13
+433,73,2023-05-10,Completed,Credit Card,
+434,169,2023-11-05,Cancelled,Credit Card,
+435,86,2023-02-11,Completed,Credit Card,5
+436,235,2023-06-29,Completed,COD,13
+437,34,2023-11-01,Completed,Credit Card,
+438,22,2023-06-08,Returned,E-Wallet,11
+439,209,2023-03-07,Returned,Credit Card,
+440,213,2023-12-17,Completed,E-Wallet,
+441,24,2023-11-27,Cancelled,Credit Card,
+442,131,2023-07-05,Completed,Credit Card,10
+443,47,2023-04-20,Pending,Credit Card,16
+444,50,2023-04-26,Completed,Credit Card,
+445,40,2023-02-09,Completed,COD,4
+446,130,2023-10-04,Completed,COD,
+447,227,2023-09-27,Pending,Credit Card,11
+448,225,2023-11-13,Completed,Credit Card,13
+449,40,2023-03-25,Cancelled,Bank Transfer,20
+450,208,2023-03-26,Completed,COD,
+451,12,2023-07-30,Completed,E-Wallet,8
+452,249,2023-08-16,Completed,Credit Card,15
+453,60,2023-10-01,Completed,COD,16
+454,232,2023-04-10,Completed,E-Wallet,19
+455,113,2023-08-25,Pending,Credit Card,
+456,200,2023-07-15,Pending,Credit Card,14
+457,248,2023-03-24,Completed,Credit Card,
+458,206,2023-11-06,Returned,Bank Transfer,9
+459,14,2023-11-25,Completed,Credit Card,12
+460,142,2023-02-22,Completed,Credit Card,
+461,133,2023-03-05,Returned,COD,6
+462,70,2023-08-19,Completed,E-Wallet,
+463,38,2023-08-12,Completed,E-Wallet,8
+464,210,2023-08-19,Completed,Bank Transfer,
+465,239,2023-01-14,Completed,E-Wallet,13
+466,129,2023-07-11,Completed,Credit Card,3
+467,96,2023-04-25,Completed,Bank Transfer,4
+468,215,2024-01-01,Completed,Bank Transfer,5
+469,36,2023-01-20,Returned,Credit Card,16
+470,179,2023-03-13,Completed,Credit Card,
+471,121,2023-08-18,Returned,COD,3
+472,5,2023-05-12,Completed,Bank Transfer,5
+473,141,2023-11-08,Completed,Credit Card,4
+474,199,2023-05-28,Cancelled,Credit Card,4
+475,13,2023-05-03,Completed,Credit Card,20
+476,118,2023-02-02,Cancelled,Credit Card,16
+477,153,2023-10-02,Completed,Bank Transfer,17
+478,148,2023-05-04,Cancelled,Credit Card,
+479,75,2023-08-08,Completed,Credit Card,12
+480,62,2023-10-20,Completed,Credit Card,3
+481,135,2023-07-04,Completed,Bank Transfer,17
+482,140,2023-09-17,Completed,Credit Card,
+483,130,2023-10-11,Returned,Credit Card,16
+484,12,2023-11-22,Pending,Bank Transfer,12
+485,65,2023-01-09,Completed,Bank Transfer,3
+486,89,2023-05-04,Completed,Bank Transfer,
+487,161,2023-02-23,Completed,Credit Card,
+488,189,2023-06-20,Returned,Credit Card,12
+489,140,2023-06-23,Returned,Credit Card,
+490,45,2023-12-17,Completed,Bank Transfer,16
+491,162,2023-04-04,Completed,Credit Card,
+492,17,2023-08-23,Completed,Credit Card,7
+493,12,2023-04-13,Completed,Bank Transfer,
+494,81,2023-06-08,Pending,E-Wallet,18
+495,122,2023-05-10,Cancelled,COD,7
+496,74,2023-07-02,Completed,Credit Card,
+497,13,2023-12-02,Pending,Bank Transfer,4
+498,205,2023-07-08,Completed,Credit Card,13
+499,191,2023-08-14,Completed,Credit Card,
+500,99,2023-06-23,Returned,Credit Card,
+501,128,2023-12-21,Completed,E-Wallet,17
+502,69,2023-02-12,Completed,Credit Card,
+503,21,2023-08-09,Completed,Bank Transfer,6
+504,140,2023-05-31,Pending,Credit Card,3
+505,84,2023-12-05,Returned,Credit Card,15
+506,155,2023-08-07,Pending,COD,15
+507,90,2023-08-17,Cancelled,Credit Card,12
+508,158,2023-08-11,Pending,Bank Transfer,2
+509,20,2023-12-10,Completed,COD,12
+510,132,2023-12-14,Completed,E-Wallet,1
+511,37,2023-11-08,Completed,Bank Transfer,
+512,113,2023-01-18,Completed,Credit Card,8
+513,200,2023-11-27,Completed,Credit Card,13
+514,244,2023-10-18,Completed,Credit Card,5
+515,174,2023-08-19,Completed,Credit Card,
+516,96,2023-08-16,Completed,Bank Transfer,
+517,147,2023-03-12,Completed,E-Wallet,13
+518,81,2023-11-29,Returned,Bank Transfer,4
+519,7,2023-04-06,Completed,E-Wallet,13
+520,234,2023-10-15,Completed,Credit Card,9
+521,181,2023-08-17,Completed,COD,20
+522,74,2023-12-22,Completed,Bank Transfer,
+523,126,2023-04-13,Pending,E-Wallet,3
+524,116,2023-03-30,Completed,Credit Card,
+525,114,2023-02-14,Returned,Bank Transfer,
+526,248,2023-06-13,Completed,Credit Card,
+527,182,2023-02-03,Pending,Bank Transfer,10
+528,229,2023-06-03,Cancelled,E-Wallet,
+529,183,2023-12-30,Completed,Credit Card,
+530,164,2023-03-31,Completed,Credit Card,
+531,131,2023-04-25,Completed,COD,7
+532,203,2023-03-13,Completed,E-Wallet,16
+533,7,2023-07-04,Completed,Bank Transfer,12
+534,120,2023-10-10,Completed,Bank Transfer,3
+535,17,2023-06-08,Completed,Credit Card,16
+536,135,2023-07-30,Completed,Credit Card,
+537,211,2023-10-22,Completed,Credit Card,11
+538,165,2023-02-07,Completed,E-Wallet,17
+539,89,2023-03-07,Completed,Bank Transfer,
+540,200,2023-10-10,Completed,Bank Transfer,6
+541,197,2023-03-08,Completed,Credit Card,2
+542,213,2023-03-05,Completed,Credit Card,10
+543,43,2023-03-24,Completed,Credit Card,8
+544,89,2023-09-23,Completed,E-Wallet,
+545,217,2023-02-10,Completed,Credit Card,18
+546,71,2023-03-06,Completed,Bank Transfer,20
+547,137,2023-02-17,Completed,Credit Card,6
+548,152,2023-10-25,Completed,Credit Card,20
+549,185,2023-11-06,Completed,Credit Card,19
+550,11,2023-01-15,Completed,Credit Card,19
+551,68,2023-11-30,Completed,COD,19
+552,107,2023-11-13,Completed,Credit Card,16
+553,228,2023-11-18,Completed,E-Wallet,10
+554,124,2023-05-06,Completed,Credit Card,
+555,176,2023-07-27,Completed,Credit Card,3
+556,177,2023-01-31,Completed,Credit Card,14
+557,124,2023-08-26,Returned,Credit Card,20
+558,37,2023-06-10,Completed,E-Wallet,
+559,82,2023-06-26,Completed,Credit Card,
+560,34,2023-07-09,Completed,Credit Card,4
+561,82,2023-05-04,Completed,E-Wallet,9
+562,116,2023-05-07,Completed,Bank Transfer,2
+563,75,2023-07-16,Completed,COD,
+564,108,2023-05-08,Pending,COD,
+565,231,2023-03-23,Completed,Bank Transfer,
+566,240,2023-10-23,Completed,Credit Card,
+567,49,2023-03-23,Completed,Bank Transfer,17
+568,120,2023-09-13,Completed,Credit Card,
+569,128,2023-01-12,Completed,Credit Card,13
+570,130,2023-08-23,Completed,Credit Card,
+571,56,2023-10-26,Completed,COD,2
+572,73,2023-09-11,Completed,Credit Card,16
+573,74,2023-10-02,Completed,E-Wallet,4
+574,111,2023-03-10,Completed,Bank Transfer,
+575,187,2023-07-07,Completed,Bank Transfer,
+576,94,2023-01-24,Completed,Bank Transfer,19
+577,144,2023-04-10,Pending,Bank Transfer,10
+578,19,2023-07-17,Returned,Bank Transfer,18
+579,72,2023-11-16,Completed,E-Wallet,
+580,31,2023-03-07,Completed,Credit Card,
+581,101,2023-07-11,Completed,Credit Card,
+582,87,2023-10-13,Completed,Credit Card,
+583,194,2023-03-15,Completed,Bank Transfer,17
+584,103,2023-09-14,Completed,Credit Card,2
+585,36,2024-01-01,Completed,Credit Card,16
+586,133,2023-08-22,Completed,Bank Transfer,17
+587,36,2023-06-17,Returned,Bank Transfer,
+588,82,2023-03-25,Completed,Bank Transfer,20
+589,190,2023-06-03,Completed,Credit Card,17
+590,213,2023-09-18,Cancelled,Credit Card,19
+591,77,2023-09-01,Cancelled,COD,
+592,95,2023-06-19,Returned,E-Wallet,
+593,107,2023-10-26,Completed,Credit Card,1
+594,153,2023-08-31,Completed,Credit Card,19
+595,148,2023-04-27,Completed,Bank Transfer,
+596,150,2023-09-03,Completed,Credit Card,20
+597,199,2023-07-14,Completed,Credit Card,8
+598,9,2023-10-21,Completed,E-Wallet,
+599,29,2023-04-08,Completed,Credit Card,11
+600,108,2023-03-19,Completed,Bank Transfer,7
+601,106,2023-09-14,Completed,Credit Card,
+602,236,2023-08-30,Completed,Credit Card,
+603,189,2023-02-01,Completed,Bank Transfer,
+604,133,2023-04-17,Completed,Credit Card,16
+605,135,2023-07-12,Completed,E-Wallet,6
+606,118,2023-09-30,Completed,Bank Transfer,12
+607,174,2023-12-15,Completed,Credit Card,9
+608,157,2023-09-05,Completed,Credit Card,8
+609,72,2023-10-13,Pending,Credit Card,10
+610,198,2023-05-28,Completed,Credit Card,
+611,177,2023-12-27,Completed,Credit Card,16
+612,90,2023-10-14,Completed,COD,
+613,204,2023-05-21,Completed,Credit Card,19
+614,174,2023-10-06,Pending,Credit Card,13
+615,210,2023-06-26,Pending,Credit Card,
+616,206,2023-03-16,Returned,Bank Transfer,10
+617,245,2024-01-01,Cancelled,E-Wallet,15
+618,168,2023-05-12,Completed,E-Wallet,
+619,55,2023-04-14,Completed,Credit Card,
+620,70,2023-10-15,Completed,Credit Card,
+621,36,2023-02-25,Completed,Bank Transfer,19
+622,62,2023-05-05,Completed,COD,17
+623,58,2023-11-23,Returned,Credit Card,4
+624,106,2023-06-19,Completed,Credit Card,
+625,26,2023-12-15,Completed,Credit Card,
+626,2,2023-10-09,Completed,Credit Card,
+627,41,2023-07-28,Pending,Bank Transfer,
+628,226,2023-09-01,Completed,Bank Transfer,7
+629,194,2023-05-28,Completed,Credit Card,2
+630,233,2023-02-15,Completed,Credit Card,
+631,60,2023-10-01,Completed,E-Wallet,
+632,218,2023-01-20,Returned,Bank Transfer,
+633,45,2023-08-02,Completed,Bank Transfer,
+634,46,2023-01-19,Completed,Credit Card,
+635,102,2023-09-11,Completed,Credit Card,10
+636,225,2023-01-20,Completed,Credit Card,19
+637,155,2023-02-24,Pending,E-Wallet,
+638,86,2023-05-26,Completed,Credit Card,18
+639,135,2023-09-10,Returned,Credit Card,
+640,35,2023-09-16,Cancelled,Credit Card,7
+641,208,2023-02-27,Cancelled,Credit Card,15
+642,166,2023-05-12,Returned,E-Wallet,
+643,4,2023-06-22,Completed,Credit Card,
+644,146,2023-12-12,Pending,Credit Card,
+645,45,2023-11-09,Returned,Bank Transfer,
+646,230,2023-07-27,Completed,Credit Card,
+647,132,2023-06-17,Completed,COD,4
+648,48,2023-03-13,Completed,Credit Card,8
+649,2,2023-05-14,Completed,Bank Transfer,15
+650,193,2023-05-17,Returned,E-Wallet,
+651,78,2023-10-26,Completed,COD,
+652,3,2023-05-14,Cancelled,Bank Transfer,
+653,178,2023-05-01,Pending,Credit Card,4
+654,120,2023-06-07,Completed,E-Wallet,17
+655,237,2023-12-27,Completed,COD,
+656,177,2023-03-02,Returned,Credit Card,10
+657,95,2023-11-11,Returned,Credit Card,5
+658,123,2023-03-20,Completed,Bank Transfer,20
+659,96,2023-08-01,Pending,Credit Card,
+660,234,2023-08-30,Completed,Bank Transfer,
+661,206,2023-12-07,Completed,Bank Transfer,
+662,196,2023-05-07,Completed,Credit Card,
+663,153,2023-02-11,Completed,COD,17
+664,181,2023-07-05,Completed,Credit Card,19
+665,29,2023-02-01,Pending,Credit Card,
+666,232,2023-09-16,Pending,Bank Transfer,18
+667,39,2023-03-26,Cancelled,Credit Card,17
+668,114,2023-03-01,Completed,Bank Transfer,
+669,184,2023-10-26,Returned,Bank Transfer,17
+670,115,2023-01-29,Completed,COD,17
+671,107,2023-08-22,Cancelled,Bank Transfer,18
+672,119,2023-12-11,Cancelled,COD,
+673,186,2023-01-12,Completed,Credit Card,1
+674,191,2023-04-22,Completed,Credit Card,2
+675,109,2023-06-26,Completed,Credit Card,
+676,139,2023-01-31,Completed,Credit Card,
+677,18,2023-08-30,Completed,COD,14
+678,47,2023-03-11,Pending,Credit Card,
+679,187,2023-11-27,Pending,Credit Card,
+680,96,2023-07-15,Completed,Credit Card,13
+681,97,2023-02-11,Completed,COD,
+682,170,2023-10-04,Completed,Credit Card,12
+683,31,2023-04-02,Completed,Credit Card,
+684,101,2023-09-28,Completed,Credit Card,8
+685,214,2023-01-02,Completed,COD,
+686,77,2023-08-26,Pending,Credit Card,
+687,140,2023-08-06,Pending,Credit Card,8
+688,64,2023-08-24,Completed,Credit Card,9
+689,49,2023-02-27,Completed,E-Wallet,14
+690,158,2023-01-09,Completed,Credit Card,3
+691,26,2023-11-01,Completed,Credit Card,20
+692,173,2023-12-27,Returned,Credit Card,
+693,63,2023-01-23,Completed,Bank Transfer,8
+694,139,2023-04-22,Completed,Credit Card,
+695,199,2023-01-29,Completed,Credit Card,10
+696,60,2023-10-22,Completed,COD,20
+697,198,2023-12-11,Cancelled,Bank Transfer,
+698,61,2023-06-04,Completed,Credit Card,
+699,170,2023-09-24,Cancelled,Credit Card,10
+700,71,2023-02-01,Completed,Credit Card,19
+701,226,2023-03-31,Completed,Bank Transfer,14
+702,143,2023-09-11,Completed,Bank Transfer,12
+703,242,2023-11-26,Completed,Credit Card,
+704,202,2023-09-26,Completed,Credit Card,14
+705,105,2023-03-18,Completed,Bank Transfer,6
+706,194,2023-10-03,Completed,COD,8
+707,77,2023-12-29,Completed,Credit Card,15
+708,235,2023-01-30,Completed,Credit Card,14
+709,143,2023-09-29,Completed,Credit Card,8
+710,66,2023-04-15,Completed,COD,3
+711,237,2023-08-19,Completed,COD,
+712,24,2023-10-02,Returned,Credit Card,
+713,49,2023-01-27,Pending,Credit Card,20
+714,155,2023-01-21,Pending,Credit Card,
+715,49,2023-10-28,Completed,Credit Card,
+716,144,2023-04-22,Completed,Bank Transfer,11
+717,78,2023-01-08,Completed,Credit Card,7
+718,247,2023-03-02,Completed,Bank Transfer,
+719,194,2023-09-03,Completed,E-Wallet,
+720,179,2023-11-06,Cancelled,E-Wallet,
+721,102,2023-05-03,Completed,Credit Card,10
+722,98,2023-08-27,Completed,COD,12
+723,79,2023-05-14,Completed,Credit Card,16
+724,120,2023-02-20,Completed,E-Wallet,
+725,185,2023-08-29,Completed,Credit Card,
+726,82,2023-04-15,Completed,Credit Card,14
+727,12,2023-10-16,Completed,Credit Card,
+728,190,2023-03-16,Completed,COD,18
+729,240,2023-10-27,Completed,COD,14
+730,76,2023-03-20,Returned,Credit Card,8
+731,98,2023-10-19,Completed,Credit Card,
+732,128,2023-10-09,Returned,Credit Card,
+733,176,2023-06-22,Completed,Bank Transfer,16
+734,248,2023-11-25,Completed,Credit Card,
+735,118,2023-03-28,Completed,Bank Transfer,
+736,91,2023-03-28,Completed,Bank Transfer,18
+737,126,2023-04-05,Completed,Bank Transfer,
+738,139,2023-11-25,Completed,E-Wallet,
+739,135,2023-01-18,Completed,Credit Card,
+740,20,2023-12-09,Completed,Credit Card,1
+741,106,2023-03-12,Completed,Credit Card,
+742,60,2023-02-04,Returned,Credit Card,
+743,3,2023-04-22,Completed,Credit Card,12
+744,16,2023-11-13,Completed,Credit Card,20
+745,234,2023-09-05,Completed,Credit Card,
+746,5,2023-01-04,Completed,Credit Card,14
+747,4,2023-01-09,Completed,Credit Card,9
+748,138,2023-05-27,Completed,E-Wallet,14
+749,207,2023-04-02,Completed,Bank Transfer,4
+750,135,2023-03-18,Completed,COD,20
+751,135,2023-05-10,Cancelled,Credit Card,
+752,69,2023-07-23,Pending,Credit Card,13
+753,118,2023-10-17,Completed,COD,8
+754,77,2023-12-17,Cancelled,Credit Card,
+755,21,2023-12-01,Completed,Credit Card,
+756,167,2023-01-17,Completed,COD,13
+757,97,2023-10-10,Completed,Credit Card,1
+758,180,2023-03-29,Completed,Credit Card,14
+759,166,2023-06-19,Completed,Bank Transfer,4
+760,230,2023-09-28,Pending,COD,
+761,59,2023-04-19,Completed,E-Wallet,
+762,178,2023-10-18,Cancelled,COD,2
+763,237,2023-02-08,Completed,Credit Card,
+764,72,2023-10-06,Completed,Credit Card,2
+765,46,2023-06-11,Completed,Credit Card,7
+766,151,2023-03-15,Completed,Bank Transfer,
+767,183,2023-07-23,Completed,Credit Card,
+768,77,2023-03-25,Pending,E-Wallet,19
+769,214,2023-07-19,Cancelled,E-Wallet,
+770,139,2023-06-19,Completed,E-Wallet,5
+771,203,2023-12-19,Completed,Credit Card,
+772,129,2023-06-27,Completed,Credit Card,14
+773,60,2023-02-08,Completed,Bank Transfer,20
+774,245,2023-11-01,Cancelled,Bank Transfer,11
+775,8,2023-11-21,Completed,COD,15
+776,126,2023-04-27,Completed,Credit Card,13
+777,111,2023-04-06,Completed,Credit Card,
+778,170,2023-07-14,Completed,E-Wallet,20
+779,76,2023-05-07,Completed,Credit Card,
+780,22,2023-05-18,Returned,Bank Transfer,5
+781,190,2023-07-19,Completed,Credit Card,4
+782,24,2023-01-03,Completed,Bank Transfer,
+783,114,2023-07-04,Completed,Credit Card,
+784,27,2023-03-09,Pending,Credit Card,14
+785,115,2023-10-13,Completed,Credit Card,14
+786,27,2023-01-14,Completed,Credit Card,18
+787,24,2023-11-02,Completed,COD,11
+788,222,2023-07-17,Completed,Credit Card,14
+789,100,2023-02-13,Completed,Credit Card,
+790,144,2023-05-05,Completed,Credit Card,6
+791,176,2023-07-14,Completed,Credit Card,9
+792,78,2023-05-18,Returned,E-Wallet,3
+793,43,2023-08-11,Cancelled,E-Wallet,10
+794,124,2023-02-09,Completed,E-Wallet,8
+795,185,2023-11-17,Completed,E-Wallet,20
+796,51,2023-08-23,Pending,Bank Transfer,10
+797,2,2023-07-22,Pending,Bank Transfer,20
+798,98,2023-06-18,Completed,Credit Card,14
+799,209,2023-11-30,Completed,Credit Card,
+800,35,2023-06-03,Completed,E-Wallet,7
